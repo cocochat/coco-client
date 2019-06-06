@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1170px" height="280px" viewBox="0 0 1170 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Rectangle Copy 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1170" height="280"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account-01" transform="translate(-270.000000, 0.000000)">
+            <g id="Rectangle-Copy-16" transform="translate(270.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#292F36" xlink:href="#path-1"></use>
+                <path d="M-82.7853379,-628.005346 C-50.9662662,-639.054685 -32.7255662,-639.054685 -28.0632377,-628.005346 C141.176373,-226.921221 351.474563,-57.1907975 671.084893,-221.152738 C1003.90249,-391.890081 1265.94574,-305.875203 1457.21466,36.891897 L1457.21466,500.717331 L-82.7853379,500.717331 L-82.7853379,-628.005346 Z" id="Rectangle-Copy-17" fill="#2D3E51" mask="url(#mask-2)" transform="translate(687.214662, -67.787509) scale(1, -1) translate(-687.214662, 67.787509) "></path>
+                <path d="M168.416521,-457.609585 C194.656924,-466.715346 209.699579,-466.715346 213.544486,-457.609585 C353.112217,-127.076157 526.539946,12.7986854 790.114698,-122.32235 C1064.58116,-263.026995 1280.68176,-192.142134 1438.41652,90.3322342 L1438.41652,472.570776 L168.416521,472.570776 L168.416521,-457.609585 Z" fill="#3B4D61" mask="url(#mask-2)" transform="translate(803.416521, 4.065935) scale(-1, -1) rotate(5.000000) translate(-803.416521, -4.065935) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
